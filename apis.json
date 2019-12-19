@@ -1,0 +1,45 @@
+{
+    "name": "Department of the Treasury",
+    "description": "<p>The Department of the Treasury (DoT) is an executive department and the treasury of the United States federal government. It was established by an Act of Congress in 1789 to manage government revenue. The Department is administered by the Secretary of the Treasury, who is a member of the Cabinet. Jack Lew is the current Secretary of the Treasury; he was sworn in on February 28, 2013.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-DeptOfTheTreasury-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-the-treasury\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of the Treasury",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-DeptOfTheTreasury-Seal.svg.png",
+            "humanURL": "http:\/\/www.treasury.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-the-treasury-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.treasury.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.treasury.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/United_States_Department_of_the_Treasury"
+        }
+    ]
+}
